@@ -9,5 +9,6 @@ using std::cout;
 
 int main() {
      cout << "Hello World\n";
+    cout << "Hello\n";
      return 0;
 }
